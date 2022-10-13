@@ -4,7 +4,7 @@
 
 - 🔭 I have a Bachelor degree in Javascript React development at OpenClassRooms
 - 🌱 I’m currently learning  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-- 💬 Check out [my resume](https://github.com/DesireeBesnard/DesireeBesnard/blob/main/CV_Désirée_Besnard_Developpeuse_Front_End.pdf)
+- 💬 Check out [my resume](https://github.com/DesireeBesnard/DesireeBesnard/blob/main/CV_Désirée_Besnard_Developpeuse_Web_Frontend.pdf)
 - 📫 How to reach me:[ on LinkedIn](https://www.linkedin.com/in/desireebesnard/?originalSubdomain=fr) | desireebesnard@gmail.com
 - ⚡ Fun fact: I 💖 to sing and play the piano 🎤🎶🎹
 
